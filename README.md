@@ -1,6 +1,6 @@
 ![MasterHead](https://infozla.com/wp-content/uploads/2022/12/61be16afc2df9.jpg)
 <h1 align="center">Hi 👋, I'm Manav Kaneriya</h1>
-<h3 align="center">A passionate frontend developer with HTML, CSS, JS and intermediate react.js from India</h3>
+<h3 align="center">A passionate frontend developer with HTML, CSS, JS and intermediate at react.js from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"/>
 
