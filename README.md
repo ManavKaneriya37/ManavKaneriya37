@@ -39,12 +39,6 @@ I'm a passionate developer focused on building **modern, scalable, and AI-powere
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-#### 🤖 AI & Generative AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 **Exploring:** LLMs • RAG • AI Agents • MCP • Embeddings • Vector Databases • Prompt Engineering • AI APIs
 
 #### ☁️ Tools & Technologies
@@ -59,7 +53,6 @@ I'm a passionate developer focused on building **modern, scalable, and AI-powere
 
 * 🧠 Building **GenAI-powered applications**
 * 🔗 Integrating **LLMs with full-stack applications**
-* 📚 Learning advanced **RAG architectures**
 * 🤝 Exploring **Model Context Protocol (MCP)**
 * ⚡ Improving my **backend and API development** skills
 * 🏗️ Designing scalable **MERN + AI architectures**
@@ -82,8 +75,8 @@ Here are some of the projects I'm currently building and exploring:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manavkaneriya37&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavkaneriya37&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaneriyamanav37&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaneriyamanav37&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -91,7 +84,7 @@ Here are some of the projects I'm currently building and exploring:
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manavkaneriya37&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kaneriyamanav37&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
