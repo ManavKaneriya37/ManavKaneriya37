@@ -84,7 +84,7 @@ Here are some of the projects I'm currently building and exploring:
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaneriyamanav37&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=manavkaneriya37&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
